@@ -4,6 +4,7 @@ DansTonChat
 DuckDuckGo
 Facebook
 Flickr
+Filter
 GoogleSearch
 Identica
 Instagram
